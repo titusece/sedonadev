@@ -1,9 +1,6 @@
 # sedonadev
 Build sedonadev in Linux
 
-# sedonadev
-Build sedonadev in Linux
-
 i) Download the latest sedonadev source code in below sedonadev site.
 
 http://www.sedonadev.org/download/build/
