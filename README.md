@@ -47,3 +47,14 @@ cd sedonadev
 ./bin/sedonac.sh scode/platUnix.xml
 
 ./bin/sedonac.sh apps/platUnix.sax
+
+
+viii) Run.
+
+./svm platUnix.scode platUnix.sab 
+
+ix) Open the Sedona application Editor tool in PC, provide the "Host" address, Username as 'admin' and Password as empty, click OK.
+
+x) You should copy all the folders (including .xml) of manifests from "sedonadev" source code to Sedona application editor tool installed location.
+
+C:\Program Files (x86)\Sedona Application Editor\ccontrols data folder\sedona
